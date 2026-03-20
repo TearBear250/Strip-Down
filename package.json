@@ -1,0 +1,27 @@
+{
+  "name": "strip-down",
+  "version": "1.0.0",
+  "description": "NFC and cryptocurrency payment compatibility layer for merchant-class POS terminals including Stripe, Clover, and other vendors. Enables Bitcoin and cryptocurrency processing via NFC at both smartphone and POS device levels.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint src test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TearBear250/Strip-Down.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TearBear250/Strip-Down/issues"
+  },
+  "homepage": "https://github.com/TearBear250/Strip-Down#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.0.3",
+    "jest": "^30.3.0"
+  }
+}
